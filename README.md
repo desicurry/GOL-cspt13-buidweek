@@ -1,1 +1,1 @@
-# GOL-cspt13-buidweek
+# GOL-cspt13-buildweek
